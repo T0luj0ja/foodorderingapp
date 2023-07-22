@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  overflow-x: hidden ;
+}
+#root{
+  height: 100%;
+}
+
+.App{
+  height: 100vh;
+  background-color: black  ; 
+}
+
+.my-carousel{
+
+  height: 500px;
+  object-fit: contain;
+  width: 3000px;
+  background-color: black;
+} 
+
+.banner{
+  background-color: black;
+  width: auto;
+  color: #fdb913;
+}
+.yellow{
+  color: #fdb913;
+}
+
+.container{
+  background-color: black;
+
+}
